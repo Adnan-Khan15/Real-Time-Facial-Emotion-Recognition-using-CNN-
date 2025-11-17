@@ -1,3 +1,15 @@
 venv/
 __pycache__/
 .DS_Store
+data/
+data_processed/
+processed_data/
+dataset/
+*.zip
+*.h5
+*.ckpt
+*.weights
+*.keras_backup*
+*.jpg
+*.png
+*.mp4
