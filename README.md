@@ -4,6 +4,12 @@
 
 Built by Adnan Khan, Kshant Carvalho, Sherlynn Vaz, Aaryan Singh for DEEP LEARNING AND REINFORCEMENT LEARNING Mini Project.
 
+Model performance (final trained model)
+
+Test accuracy (top-1): 55.06% (test loss: 1.1882) — measured on held-out test images. This is the number reported from eval_best.py (model file: models/emotion_best.keras).
+
+Dataset: ~28,709 labeled images across 7 emotion classes (training set) with ~3,589 files in validation/test split used during evaluation.
+
 ---
 
 ## 🔥 TL;DR
