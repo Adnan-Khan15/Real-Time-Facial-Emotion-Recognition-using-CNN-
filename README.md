@@ -200,13 +200,6 @@ streamlit run app.py
 
 ---
 
-## 🧾 License & Contact
-
-* License: add your preferred license file `LICENSE` (MIT recommended for projects).
-* Contact: `Adnan Khan` — add your email or GitHub link.
-
----
-
 If you want, I can now:
 
 * generate a clean `README.md` file in your repo and push it for you, or
