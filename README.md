@@ -1,6 +1,8 @@
 # Real-Time Facial Emotion Recognition (CNN)
 
-**Live webcam + image upload app** that uses a custom-trained CNN to predict 7 emotions from face crops. Built with TensorFlow (macOS/M‑series ready) and Streamlit for an interactive frontend. Built by Adnan Khan, Kshant Carvalho, Sherlynn Vaz, Aaryan Singh for DEEP LEARNING AND REINFORCEMENT LEARNING Mini Project.
+**Live webcam + image upload app** that uses a custom-trained CNN to predict 7 emotions from face crops. Built with TensorFlow (macOS/M‑series ready) and Streamlit for an interactive frontend. 
+
+Built by Adnan Khan, Kshant Carvalho, Sherlynn Vaz, Aaryan Singh for DEEP LEARNING AND REINFORCEMENT LEARNING Mini Project.
 
 ---
 
